@@ -22,7 +22,36 @@
 </div>
 
 <div align="center">
-  <h2>02 &nbsp; / &nbsp; My technology stack</h2>
+  <h2>02 &nbsp; / &nbsp; Featured projects</h2>
+  <p><samp>WHAT I'M BUILDING</samp></p>
+  <table align="center" width="100%" border="0" cellpadding="12" role="presentation">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <h3><a href="https://github.com/ManuelPerilla/once">ONCE</a></h3>
+        <p>Connects football matches, teams, competitions and players, starting with Colombia, so scattered sources become explorable local data with traceable origins and audited corrections.</p>
+        <p><sub>Python · FastAPI · PostgreSQL · Docker</sub></p>
+        <p><a href="https://github.com/ManuelPerilla/once">Explore ONCE →</a></p>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <h3><a href="https://github.com/ManuelPerilla/cauce">Cauce</a></h3>
+        <p>A native Windows music player that keeps local listening within the genre you choose, with clear queue rules for artist spacing and repeats.</p>
+        <p><sub>C# · .NET · WPF</sub></p>
+        <p><a href="https://github.com/ManuelPerilla/cauce">Explore Cauce →</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<details>
+  <summary>ONCE · Earlier admin interface (Vértice)</summary>
+  <p>This repository screenshot shows an earlier version under the Vértice name.</p>
+  <a href="https://github.com/ManuelPerilla/once">
+    <img src="https://raw.githubusercontent.com/ManuelPerilla/once/main/docs/admin-overview.webp" width="100%" alt="Earlier ONCE admin interface under the Vértice name, showing competitions, teams and match summaries" />
+  </a>
+</details>
+
+<div align="center">
+  <h2>03 &nbsp; / &nbsp; My technology stack</h2>
   <p><samp>THE TOOLS I WORK WITH</samp></p>
   <table align="center" width="100%" border="0" cellpadding="12" role="presentation">
     <tr>
@@ -71,7 +100,7 @@
 </div>
 
 <div align="center">
-  <h2>03 &nbsp; / &nbsp; Activity &amp; consistency</h2>
+  <h2>04 &nbsp; / &nbsp; Activity &amp; consistency</h2>
   <p><samp>SMALL ITERATIONS. VISIBLE PROGRESS.</samp></p>
   <a href="https://github.com/ManuelPerilla?tab=overview"><img src="https://raw.githubusercontent.com/ManuelPerilla/ManuelPerilla/output/activity.svg" width="100%" alt="Daily contribution metrics: contributions, active days, current streak, longest streak, and a 12-week activity chart" /></a>
   <table align="center" width="100%" border="0" cellpadding="0" role="presentation">
@@ -99,7 +128,7 @@
 </div>
 
 <div align="center">
-  <h2>04 &nbsp; / &nbsp; Keep the fire moving</h2>
+  <h2>05 &nbsp; / &nbsp; Keep the fire moving</h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManuelPerilla/ManuelPerilla/output/github-contribution-grid-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/ManuelPerilla/ManuelPerilla/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation tracing my GitHub contributions in crimson" />
