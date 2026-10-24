@@ -2,9 +2,9 @@
   <img src=".assets/manuel-perilla-banner.png" width="100%" alt="Manuel Perilla — Backend Developer. Python, FastAPI and Docker, with Arlecchino as a crimson visual signature." />
   <br />
   <a href="https://github.com/ManuelPerilla">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=21&amp;duration=3000&amp;pause=1500&amp;color=DC143C&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=880&amp;height=58&amp;lines=System+Analyst+%26+Backend+Developer;Python+%C2%B7+FastAPI+%C2%B7+.NET+%C2%B7+Rust;Azure+%C2%B7+Docker+%C2%B7+Terraform+%C2%B7+Jenkins;Arch+Linux+enthusiast.+Always+building." width="100%" alt="System analyst and backend developer · Python, FastAPI, .NET and Rust · Azure, Docker, Terraform and Jenkins · Arch Linux enthusiast" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=21&amp;duration=3000&amp;pause=1500&amp;color=DC143C&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=880&amp;height=58&amp;lines=System+Analyst+%26+Backend+Developer;C%23+%2F+.NET+%C2%B7+Python+%C2%B7+Rust;React+%C2%B7+Next.js+%C2%B7+TypeScript;Arch+Linux+enthusiast.+Always+building." width="100%" alt="Systems analyst and backend developer · C#/.NET, Python and Rust · React, Next.js and TypeScript · Arch Linux enthusiast" />
   </a>
-  <p><samp>BASED IN COLOMBIA &nbsp; / &nbsp; BACKEND · CLOUD · AUTOMATION</samp></p>
+  <p><samp>BASED IN COLOMBIA &nbsp; / &nbsp; BACKEND · WEB · DESKTOP · AUTOMATION</samp></p>
   <p>
     <a href="https://github.com/ManuelPerilla?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_work-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=DC143C" alt="Explore my repositories" /></a>
     <a href="https://github.com/ManuelPerilla?tab=overview"><img src="https://img.shields.io/badge/Contributions-0D1117?style=for-the-badge&amp;logo=git&amp;logoColor=DC143C" alt="See my contributions" /></a>
@@ -15,31 +15,45 @@
 <div align="center">
   <h2>01 &nbsp; / &nbsp; A little about me</h2>
   <p>I'm <strong>Manuel Perilla</strong>, a systems analyst and backend developer from Colombia.<br />
-  My focus is on <strong>APIs, data, cloud infrastructure and delivery automation</strong>.<br />
-  I enjoy connecting the pieces: understanding a system, building its services,<br />
-  and making those services easier to run and maintain.</p>
+  I build <strong>APIs, internal tools, web interfaces and Windows desktop applications</strong>.<br />
+  My work connects backend services, SQL data and practical interfaces,<br />
+  with automated checks and repeatable delivery workflows.</p>
   <img src=".assets/build-loop.svg" width="100%" alt="Understand → build → deliver: a gently animated development loop" />
 </div>
 
 <div align="center">
   <h2>02 &nbsp; / &nbsp; Featured projects</h2>
-  <p><samp>WHAT I'M BUILDING</samp></p>
+  <p><samp>SELECTED WORK · PUBLIC PROJECTS &amp; PRIVATE EXPERIENCE</samp></p>
   <table align="center" width="100%" border="0" cellpadding="12" role="presentation">
     <tr>
       <td width="50%" align="center" valign="top">
         <h3><a href="https://github.com/ManuelPerilla/once">ONCE</a></h3>
-        <p>Connects football matches, teams, competitions and players, starting with Colombia, so scattered sources become explorable local data with traceable origins and audited corrections.</p>
-        <p><sub>Python · FastAPI · PostgreSQL · Docker</sub></p>
+        <p>A personal football-data explorer with a FastAPI backend, PostgreSQL and a React interface for searching and filtering matches, teams and competitions.</p>
+        <p><sub>Python · FastAPI · PostgreSQL · React · Docker</sub></p>
         <p><a href="https://github.com/ManuelPerilla/once">Explore ONCE →</a></p>
       </td>
       <td width="50%" align="center" valign="top">
         <h3><a href="https://github.com/ManuelPerilla/cauce">Cauce</a></h3>
         <p>A native Windows music player that keeps local listening within the genre you choose, with clear queue rules for artist spacing and repeats.</p>
-        <p><sub>C# · .NET · WPF</sub></p>
+        <p><sub>C# · .NET 10 · WPF</sub></p>
         <p><a href="https://github.com/ManuelPerilla/cauce">Explore Cauce →</a></p>
       </td>
     </tr>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <h3><a href="https://github.com/ManuelPerilla/hydra">Hydra</a></h3>
+        <p>A personal Kubernetes resilience lab combining an ASP.NET Core API, a Rust agent and a Next.js interface. Includes an interactive recovery lesson that works without a cluster.</p>
+        <p><sub>C# · ASP.NET Core · Rust · React · Next.js · Kubernetes</sub></p>
+        <p><a href="https://github.com/ManuelPerilla/hydra">Explore Hydra →</a></p>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <h3>Aurora</h3>
+        <p>Private project.</p>
+        <p><sub>Source code is not published.</sub></p>
+      </td>
+    </tr>
   </table>
+  <p><sub>The public repositories show personal projects at different stages, not claims of production scale or commercial deployments.</sub></p>
 </div>
 
 <details>
@@ -52,7 +66,7 @@
 
 <div align="center">
   <h2>03 &nbsp; / &nbsp; My technology stack</h2>
-  <p><samp>THE TOOLS I WORK WITH</samp></p>
+  <p><samp>HANDS-ON STACK · GROUNDED IN THE PROJECTS ABOVE</samp></p>
   <table align="center" width="100%" border="0" cellpadding="12" role="presentation">
     <tr>
       <td width="50%" align="center" valign="top">
@@ -64,36 +78,36 @@
           <a href="https://www.rust-lang.org/"><img src=".assets/icons/Rust.svg" width="42" height="42" alt="Rust" title="Rust" /></a>
           <a href="https://www.postgresql.org/"><img src=".assets/icons/PostgreSQL-Dark.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" /></a>
         </p>
-        <p><sub>Python · FastAPI · .NET · Rust · PostgreSQL</sub></p>
+        <p><sub>C# · .NET / ASP.NET Core · Python / FastAPI<br />Rust · PostgreSQL</sub></p>
       </td>
       <td width="50%" align="center" valign="top">
-        <h3>Cloud &amp; delivery</h3>
+        <h3>Delivery &amp; infrastructure</h3>
         <p>
           <a href="https://azure.microsoft.com/"><img src=".assets/icons/Azure-Dark.svg" width="42" height="42" alt="Azure" title="Azure" /></a>
           <a href="https://www.docker.com/"><img src=".assets/icons/Docker.svg" width="42" height="42" alt="Docker" title="Docker" /></a>
           <a href="https://developer.hashicorp.com/terraform"><img src=".assets/icons/Terraform-Dark.svg" width="42" height="42" alt="Terraform" title="Terraform" /></a>
           <a href="https://www.jenkins.io/"><img src=".assets/icons/Jenkins-Dark.svg" width="42" height="42" alt="Jenkins" title="Jenkins" /></a>
         </p>
-        <p><sub>Azure · Docker · Terraform · Jenkins</sub></p>
+        <p><sub>Docker · Kubernetes · GitHub Actions<br />Additional tools: Azure · Terraform · Jenkins</sub></p>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center" valign="top">
-        <h3>Web foundations</h3>
+        <h3>Web &amp; desktop interfaces</h3>
         <p>
           <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src=".assets/icons/HTML.svg" width="42" height="42" alt="HTML" title="HTML" /></a>
           <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src=".assets/icons/CSS.svg" width="42" height="42" alt="CSS" title="CSS" /></a>
           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src=".assets/icons/JavaScript.svg" width="42" height="42" alt="JavaScript" title="JavaScript" /></a>
         </p>
-        <p><sub>HTML · CSS · JavaScript</sub></p>
+        <p><sub>TypeScript · JavaScript · React · Next.js<br />HTML · CSS · WPF for Windows</sub></p>
       </td>
       <td width="50%" align="center" valign="top">
-        <h3>Everyday environment</h3>
+        <h3>Workflow &amp; quality</h3>
         <p>
           <a href="https://archlinux.org/"><img src=".assets/icons/Arch-Dark.svg" width="42" height="42" alt="Arch Linux" title="Arch Linux" /></a>
           <a href="https://git-scm.com/"><img src=".assets/icons/Git.svg" width="42" height="42" alt="Git" title="Git" /></a>
         </p>
-        <p><sub>Arch Linux · Git</sub></p>
+        <p><sub>Git · Arch Linux · Automated tests<br />API checks · Playwright · Vitest</sub></p>
       </td>
     </tr>
   </table>
