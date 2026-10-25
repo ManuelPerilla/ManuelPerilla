@@ -48,8 +48,9 @@
       </td>
       <td width="50%" align="center" valign="top">
         <h3>Aurora</h3>
-        <p>Private project.</p>
-        <p><sub>Source code is not published.</sub></p>
+        <p>Aplicación interna en la que trabajo para inventario de activos, custodia de equipos, mantenimiento y flujos documentales, con registros operativos, reportes y trazabilidad.</p>
+        <p><sub>Stack: PHP, Laravel, MariaDB, Vue y TypeScript.</sub></p>
+        <p><sub>El código, los datos internos y los detalles de despliegue no son públicos.</sub></p>
       </td>
     </tr>
   </table>
